@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.14.0](https://www.github.com/bertybot/svelte-adapter-azure-swa/compare/v0.13.0...v0.14.0) (2023-02-27)
+
+
+### Features
+
+* expose client principal through platform ([#107](https://www.github.com/bertybot/svelte-adapter-azure-swa/issues/107)) ([e41f89c](https://www.github.com/bertybot/svelte-adapter-azure-swa/commit/e41f89cde57858b76df61a7ba6316f5ac0a4498d))
+
 ## [0.13.0](https://www.github.com/geoffrich/svelte-adapter-azure-swa/compare/v0.12.0...v0.13.0) (2023-01-23)
 
 
